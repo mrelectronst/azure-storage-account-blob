@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureStorageLib", "NoSqlDomain\AzureStorageLib.csproj", "{27260FE4-9784-46A8-8E69-48BE48D0852A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureTableStorageMVC", "AzureMVC\AzureTableStorageMVC.csproj", "{B28DD8BA-AA0D-4AAB-AAE1-E6858981CBF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureStorageMVC", "AzureMVC\AzureStorageMVC.csproj", "{B28DD8BA-AA0D-4AAB-AAE1-E6858981CBF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
